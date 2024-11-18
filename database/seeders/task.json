@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Complete project proposal",
+      "user_id": 1,
+      "description": "Write and submit the project proposal for the new client",
+     "completed": false
+    },
+    {
+      "title": "Buy groceries",
+      "user_id": 1,
+      "description": "Purchase items for weekly meal prep",
+      "completed": false
+    },
+    {
+      "title": "Schedule dentist appointment",
+      "user_id": 1,
+      "description": "Call the dentist office for a check-up",
+      "completed": false
+    },
+    {
+      "title": "Prepare presentation slides",
+      "user_id": 1,
+      "description": "Create slides for the upcoming team meeting",
+     "completed": false
+    },
+    {
+      "title": "Go for a run",
+      "user_id": 1,
+      "description": "30-minute jog in the park",
+      "completed": true
+    }
+  ]
